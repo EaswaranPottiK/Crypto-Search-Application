@@ -1,0 +1,36 @@
+.main{
+    margin-top: 2%;
+    padding-bottom: 5vh;
+}
+
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.text{
+    width: 20%;
+    height: 5vh;
+    border-radius: 6px;
+}
+
+.submit{
+    border-radius: 6px;
+    margin-left: 5px;
+}
+
+.allCards{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+.oneCard{
+    max-height: 4%;
+    border: 1px solid sandybrown;
+    display: flex;
+    align-items: center;
+    max-width: 80%;
+    margin-left: 10%;
+}
